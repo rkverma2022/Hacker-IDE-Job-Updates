@@ -1,22 +1,12 @@
 {
-    "lajkdfla": {
-        "title": "Full Stack",
-        "eligibility": "Exp 1 yrs",
+    "JOB0001": {
+        "title": "Backend Engineer (India)",
+        "eligibility": "Any (new grads ok)",
         "position": "Software Engineer",
         "recommended_id": ["Q001"],
-        "link": "https://sherdeepai.com/",
-        "company-name": "Google",
-        "posted_on": "10 Nov, 2025",
-        "skills": "Python, AI&ML, Tensorflow"
-    },
-    "lajd": {
-        "title": "Full Stack",
-        "eligibility": "Exp 1 yrs",
-        "position": "Software Engineer",
-        "recommended_id": ["Q001"],
-        "link": "https://sherdeepai.com/",
-        "company-name": "Google",
-        "posted_on": "10 Nov, 2025",
-        "skills": "Python, AI&ML, Tensorflow"
+        "link": "https://www.workatastartup.com/jobs/84726",
+        "company-name": "VectorShift (S23)",
+        "posted_on": "8 Nov, 2025",
+        "skills": "Python, FastAPI, AI, ML and RAG"
     }
 }
