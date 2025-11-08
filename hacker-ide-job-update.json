@@ -6,7 +6,8 @@
         "recommended_id": ["Q002"],
         "link": "https://sherdeepai.com/",
         "company-name": "Google",
-        "posted_on": "10 Nov, 2025"
+        "posted_on": "10 Nov, 2025",
+        "skills": "Python, AI&ML, Tensorflow"
     },
     "lajd": {
         "title": "Full Stack",
@@ -15,6 +16,7 @@
         "recommended_id": ["Q002"],
         "link": "https://sherdeepai.com/",
         "company-name": "Google",
-        "posted_on": "10 Nov, 2025"
+        "posted_on": "10 Nov, 2025",
+        "skills": "Python, AI&ML, Tensorflow"
     }
 }
