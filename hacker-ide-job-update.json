@@ -1,42 +1,11 @@
 {
-    "job-001": {
-        "title": "Senior Full Stack Developer",
-        "eligibility": "Bachelor's in Computer Science or related field, 5+ years experience in web development, proficient in React, Node.js, and databases",
-        "position": "Full-time, Remote",
-        "recommended_id": ["Q001", "Q002", "Q003", "Q005", "Q010", "Q012", "Q015", "Q020", "Q025", "Q030"],
-        "link": "https://example.com/jobs/senior-fullstack-developer",
-        "company-name": "TechCorp Solutions"
-    },
-    "job-002": {
-        "title": "Backend Engineer - Microservices",
-        "eligibility": "3+ years experience with distributed systems, strong knowledge of Java/Python, experience with Docker and Kubernetes",
-        "position": "Full-time, Hybrid (San Francisco, CA)",
-        "recommended_id": ["Q001", "Q006", "Q007", "Q010", "Q011", "Q035", "Q036", "Q037"],
-        "link": "https://example.com/jobs/backend-microservices",
-        "company-name": "CloudScale Inc"
-    },
-    "job-003": {
-        "title": "Frontend Developer",
-        "eligibility": "2+ years React/Vue experience, strong CSS/HTML skills, understanding of web performance optimization",
-        "position": "Full-time, On-site (New York, NY)",
-        "recommended_id": ["Q001", "Q002", "Q003", "Q008", "Q015", "Q018", "Q019", "Q021"],
-        "link": "https://example.com/jobs/frontend-developer",
-        "company-name": "DesignHub Co"
-    },
-    "job-004": {
-        "title": "DevOps Engineer",
-        "eligibility": "Bachelor's degree, 4+ years DevOps experience, proficient in CI/CD, AWS/Azure, Infrastructure as Code",
-        "position": "Full-time, Remote",
-        "recommended_id": ["Q014", "Q015", "Q016", "Q017", "Q019", "Q021", "Q022"],
-        "link": "https://example.com/jobs/devops-engineer",
-        "company-name": "AutoDeploy Systems"
-    },
-    "job-005": {
-        "title": "Database Administrator",
-        "eligibility": "5+ years DBA experience, expert in SQL and NoSQL databases, performance tuning, backup strategies",
-        "position": "Full-time, On-site (Austin, TX)",
-        "recommended_id": ["Q002", "Q003", "Q004", "Q005", "Q015", "Q022", "Q029", "Q030", "Q031", "Q032"],
-        "link": "https://example.com/jobs/database-administrator",
-        "company-name": "DataVault Inc"
+    "job-id": {
+        "title": "Full Stack",
+        "eligibility": "Exp 1 yrs",
+        "position": "Software Engineer",
+        "recommended_id": ["Q002"],
+        "link": "https://sherdeepai.com/",
+        "company-name": "Google",
+        "posted_on": ""
     }
 }
