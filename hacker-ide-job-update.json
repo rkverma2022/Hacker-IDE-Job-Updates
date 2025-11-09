@@ -8,5 +8,15 @@
         "company-name": "VectorShift (S23)",
         "posted_on": "8 Nov, 2025",
         "skills": "Python, FastAPI, AI, ML and RAG"
+    },
+    "JOB0002": {
+        "title": "Prompt / AI Engineer (India)",
+        "eligibility": "3+ years",
+        "position": "Engineering, Data science",
+        "recommended_id": ["Q001"],
+        "link": "https://www.ycombinator.com/companies/cyble/jobs/7bjt5n1-prompt-ai-engineer",
+        "company-name": "Cyble (W21)",
+        "posted_on": "9 Nov, 2025",
+        "skills": "Python, NLP, AI, ML and RAG"
     }
 }
