@@ -3,7 +3,9 @@
         "title": "Backend Engineer (India)",
         "eligibility": "Any (new grads ok)",
         "position": "Software Engineer",
-        "recommended_id": ["Q001"],
+        "recommended_id": [
+            "Q001"
+        ],
         "link": "https://www.workatastartup.com/jobs/84726",
         "company-name": "VectorShift (S23)",
         "posted_on": "8 Nov, 2025",
@@ -13,10 +15,24 @@
         "title": "Prompt / AI Engineer (India)",
         "eligibility": "3+ years",
         "position": "Engineering, Data science",
-        "recommended_id": ["Q001"],
+        "recommended_id": [
+            "Q001"
+        ],
         "link": "https://www.ycombinator.com/companies/cyble/jobs/7bjt5n1-prompt-ai-engineer",
         "company-name": "Cyble (W21)",
         "posted_on": "9 Nov, 2025",
         "skills": "Python, NLP, AI, ML and RAG"
+    },
+    "JOB0003": {
+        "title": "Software Engineer (US/UK visa sponsorship)",
+        "eligibility": "Any (new grads ok)",
+        "position": "Software Founding Engineer",
+        "recommended_id": [
+            "Q001"
+        ],
+        "link": "https://www.workatastartup.com/jobs/84659r",
+        "company-name": "Selfin (F25)",
+        "posted_on": "10 Nov, 2025",
+        "skills": "Machine learning, Python, API, AI/LLM"
     }
 }
