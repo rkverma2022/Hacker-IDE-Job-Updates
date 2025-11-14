@@ -34,5 +34,17 @@
         "company-name": "Selfin (F25)",
         "posted_on": "10 Nov, 2025",
         "skills": "Machine learning, Python, API, AI/LLM"
+    },
+     "JOB0004": {
+        "title": "Founding Engineer (Visa will sponsor) | $140K - $190K",
+        "eligibility": "Any (new grads ok)",
+        "position": "Software Founding Engineer",
+        "recommended_id": [
+            "Q001"
+        ],
+        "link": "https://www.workatastartup.com/jobs/85256",
+        "company-name": "Fleetline (S25)",
+        "posted_on": "14 Nov, 2025",
+        "skills": "Python/Typescript"
     }
 }
