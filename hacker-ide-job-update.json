@@ -46,5 +46,17 @@
         "company-name": "Fleetline (S25)",
         "posted_on": "14 Nov, 2025",
         "skills": "Python/Typescript"
+    },
+     "JOB0005": {
+        "title": "AI/ML Software Engineer Intern | $25 - $30 / hourly",
+        "eligibility": "Any (new grads ok)",
+        "position": "Engineering, Machine learning",
+        "recommended_id": [
+           "V002",  "Q001"
+        ],
+        "link": "https://www.ycombinator.com/companies/soraban/jobs/HqPTHYD-ai-ml-software-engineer-intern",
+        "company-name": "Soraban",
+        "posted_on": "04 Dec, 2025",
+        "skills": "Python, Tensorflow, Pytorch, ML"
     }
 }
