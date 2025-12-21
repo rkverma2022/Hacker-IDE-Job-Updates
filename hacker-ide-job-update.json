@@ -1,5 +1,5 @@
 {
-    "JOB0006": {
+    "JOB0001": {
         "title": "Frontend Developer [PPO] | India",
         "eligibility": "2025 | 2026 Passout",
         "position": "Frontend Developer",
@@ -12,7 +12,7 @@
         "posted_on": "21 Dec, 2025",
         "skills": "Next Js, React, JS, HTML, CSS, UI/UX"
     },
-    "JOB0007": {
+    "JOB0002": {
         "title": "Backend Developer (Django) [PPO] | India",
         "eligibility": "2025 | 2026 Passout",
         "position": "Backend Developer",
@@ -25,7 +25,7 @@
         "posted_on": "21 Dec, 2025",
         "skills": "Django, Python"
     },
-    "JOB0008": {
+    "JOB0003": {
         "title": "Fullstack Developer [PPO] | India",
         "eligibility": "2025 | 2026 Passout",
         "position": "Fullstack Developer",
@@ -38,7 +38,7 @@
         "posted_on": "21 Dec, 2025",
         "skills": "Next or React Js, Python, SQL"
     },
-    "JOB0001": {
+    "JOB0008": {
         "title": "Backend Engineer (India)",
         "eligibility": "Any (new grads ok)",
         "position": "Software Engineer",
@@ -51,7 +51,7 @@
         "posted_on": "8 Nov, 2025",
         "skills": "Python, FastAPI, AI, ML and RAG"
     },
-    "JOB0002": {
+    "JOB0007": {
         "title": "Prompt / AI Engineer (India)",
         "eligibility": "3+ years",
         "position": "Engineering, Data science",
@@ -64,7 +64,7 @@
         "posted_on": "9 Nov, 2025",
         "skills": "Python, NLP, AI, ML and RAG"
     },
-    "JOB0003": {
+    "JOB0006": {
         "title": "Software Engineer (US/UK visa sponsorship)",
         "eligibility": "Any (new grads ok)",
         "position": "Software Founding Engineer",
