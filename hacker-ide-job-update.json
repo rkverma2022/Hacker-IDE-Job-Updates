@@ -4,7 +4,8 @@
         "eligibility": "Any (new grads ok)",
         "position": "Software Engineer",
         "recommended_id": [
-            "Q001", "V002"
+            "Q001",
+            "V002"
         ],
         "link": "https://www.workatastartup.com/jobs/84726",
         "company-name": "VectorShift (S23)",
@@ -16,7 +17,8 @@
         "eligibility": "3+ years",
         "position": "Engineering, Data science",
         "recommended_id": [
-            "Q001", "V002"
+            "Q001",
+            "V002"
         ],
         "link": "https://www.ycombinator.com/companies/cyble/jobs/7bjt5n1-prompt-ai-engineer",
         "company-name": "Cyble (W21)",
@@ -28,35 +30,77 @@
         "eligibility": "Any (new grads ok)",
         "position": "Software Founding Engineer",
         "recommended_id": [
-            "Q001", "V002"
+            "Q001",
+            "V002"
         ],
         "link": "https://www.workatastartup.com/jobs/84659r",
         "company-name": "Selfin (F25)",
         "posted_on": "10 Nov, 2025",
         "skills": "Machine learning, Python, API, AI/LLM"
     },
-     "JOB0004": {
+    "JOB0004": {
         "title": "Founding Engineer (Visa will sponsor) | $140K - $190K",
         "eligibility": "Any (new grads ok)",
         "position": "Software Founding Engineer",
         "recommended_id": [
-            "Q001", "V005"
+            "Q001",
+            "V005"
         ],
         "link": "https://www.workatastartup.com/jobs/85256",
         "company-name": "Fleetline (S25)",
         "posted_on": "14 Nov, 2025",
         "skills": "Python/Typescript"
     },
-     "JOB0005": {
+    "JOB0005": {
         "title": "AI/ML Software Engineer Intern | $25 - $30 / hourly",
         "eligibility": "Any (new grads ok)",
         "position": "Engineering, Machine learning",
         "recommended_id": [
-           "V002",  "Q001"
+            "V002",
+            "Q001"
         ],
         "link": "https://www.ycombinator.com/companies/soraban/jobs/HqPTHYD-ai-ml-software-engineer-intern",
         "company-name": "Soraban",
         "posted_on": "04 Dec, 2025",
         "skills": "Python, Tensorflow, Pytorch, ML"
+    },
+    "JOB0006": {
+        "title": "Frontend Developer | India",
+        "eligibility": "2025 | 2026 Passout",
+        "position": "Frontend Developer",
+        "recommended_id": [
+            "V002",
+            "Q001"
+        ],
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSf4_uyTzWV20hntFIU8t4I1iM7tamASiEDmQ1_aM8lPjiCfeg/viewform?usp=sharing&ouid=106209416237777888752",
+        "company-name": "SiteMaster",
+        "posted_on": "21 Dec, 2025",
+        "skills": "Next Js, React, JS, HTML, CSS, UI/UX"
+    },
+    "JOB0007": {
+        "title": "Backend Developer (Django) | India",
+        "eligibility": "2025 | 2026 Passout",
+        "position": "Backend Developer",
+        "recommended_id": [
+            "V002",
+            "Q001"
+        ],
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSf4_uyTzWV20hntFIU8t4I1iM7tamASiEDmQ1_aM8lPjiCfeg/viewform?usp=sharing&ouid=106209416237777888752",
+        "company-name": "SiteMaster",
+        "posted_on": "21 Dec, 2025",
+        "skills": "Django, Python"
+    },
+    "JOB0008": {
+        "title": "Fullstack Developer | India",
+        "eligibility": "2025 | 2026 Passout",
+        "position": "Fullstack Developer",
+        "recommended_id": [
+            "V002",
+            "Q001"
+        ],
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSf4_uyTzWV20hntFIU8t4I1iM7tamASiEDmQ1_aM8lPjiCfeg/viewform?usp=sharing&ouid=106209416237777888752",
+        "company-name": "SiteMaster",
+        "posted_on": "21 Dec, 2025",
+        "skills": "Next/React Js, Python, SQL"
     }
 }
