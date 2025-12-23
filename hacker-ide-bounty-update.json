@@ -10,5 +10,17 @@
         "company-name": "Mergify",
         "posted_on": "21 Dec, 2025",
         "skills": "Python"
+    },
+    "PGB0002": {
+        "title": "Bug Bounty Program | $1 - $2M",
+        "eligibility": "Anyone",
+        "position": "Hacker", 
+        "recommended_id": [
+            "V002"
+        ],
+        "link": "https://hackerone.com/crypto?type=team",
+        "company-name": "Crypto",
+        "posted_on": "23 Dec, 2025",
+        "skills": "Computer Science"
     }
 }
