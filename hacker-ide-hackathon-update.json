@@ -11,5 +11,20 @@
         "company-name": "Vesuvius Challenge",
         "posted_on": "21 Dec, 2025",
         "skills": "Python, AI, Computer Vision"
+    },
+    "UHU0002": {
+        "title": "Girls Wanna Code | Apply Fast | Fresher | Summer Internship Interview",
+        "eligibility": "Anyone",
+        "position": "Summer Internship Interview", 
+        "recommended_id": [
+            "V002",
+            "Q001"
+        ],
+        "link": "https://mycareernet.in/mycareernet/contests/Flipkart-Girls-Wanna-Code-266",
+        "company-name": "Flipkart",
+        "posted_on": "25 Dec, 2025",
+        "skills": "ie. Python, AI, Next/React"
     }
+
+    
 }
