@@ -2,7 +2,7 @@
     "UHU0001": {
         "title": "Surface Detection | AI | $200,000",
         "eligibility": "Anyone",
-        "position": "Build a model to virtually unwrap ancient scrolls.", 
+        "position": "Build a model to virtually unwrap ancient scrolls.",
         "recommended_id": [
             "V002",
             "Q001"
@@ -15,7 +15,7 @@
     "UHU0002": {
         "title": "Girls Wanna Code | Apply Fast | Fresher | Summer Internship Interview",
         "eligibility": "Anyone",
-        "position": "Summer Internship Interview", 
+        "position": "Summer Internship Interview",
         "recommended_id": [
             "V002",
             "Q001"
@@ -28,7 +28,7 @@
     "UHU0003": {
         "title": "Gemini 3 Hackathon | Apply Fast ",
         "eligibility": "Anyone",
-        "position": "Hackathon", 
+        "position": "Hackathon",
         "recommended_id": [
             "V002",
             "Q001",
@@ -38,7 +38,19 @@
         "company-name": "Google",
         "posted_on": "31 Dec, 2025",
         "skills": "ie. Python, AI, RAG, etc."
+    },
+    "UHU0004": {
+        "title": "Build your Flutter Butler with Serverpod | Apply Fast ",
+        "eligibility": "Anyone",
+        "position": "Hackathon",
+        "recommended_id": [
+            "V002",
+            "Q001",
+            "V004"
+        ],
+        "link": "https://serverpod.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*gjmkj9*_gcl_au*MTQ1OTU4OTk4Ni4xNzY3MTMxODkw*_ga*MjM4MzEyMTAyLjE3NjcxMzE4OTE.*_ga_0YHJK3Y10M*czE3NjcxMzE4OTAkbzEkZzEkdDE3NjcxMzM2MzUkajckbDAkaDA",
+        "company-name": "ServerPod",
+        "posted_on": "31 Dec, 2025",
+        "skills": "ie. Python, AI, RAG, etc."
     }
-
-    
 }
