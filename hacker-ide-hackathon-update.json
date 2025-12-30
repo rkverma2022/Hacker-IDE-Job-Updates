@@ -24,6 +24,20 @@
         "company-name": "Flipkart",
         "posted_on": "25 Dec, 2025",
         "skills": "ie. Python, AI, Next/React"
+    },
+    "UHU0003": {
+        "title": "Gemini 3 Hackathon | Apply Fast ",
+        "eligibility": "Anyone",
+        "position": "Hackathon", 
+        "recommended_id": [
+            "V002",
+            "Q001",
+            "V004"
+        ],
+        "link": "https://gemini3.devpost.com/?utm_source=devpost&utm_medium=twitter&utm_campaign=gemini3hacks25",
+        "company-name": "Google",
+        "posted_on": "31 Dec, 2025",
+        "skills": "ie. Python, AI, RAG, etc."
     }
 
     
